@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel Cruz Aristizabal</h1>
-<h3 align="center">A passionate frontend developer from Medellin</h3>
+<h3 align="center">A passionate frontend developer from Medellin,Passionate software engineer with a proven track record of delivering high-quality, innovative solutions. Experienced in a variety of technologies, including JavaScript, HTML, CSS, Bootstrap, Node.js, Sequelize, SQL, Vite, and React. Proven ability to work independently and as part of a team.I am a passionate software engineer with a deep interest in technology and finance. I am always eager to learn new things and push the boundaries of what is possible. I am confident that my skills and experience would be a valuable asset to any team.</h3>
 
 - 🔭 I’m currently working on **Thaskify**
+
+- 🌱 I’m currently learning **aws**
+
+- 📫 How to reach me **daniel94cruz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
