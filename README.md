@@ -42,15 +42,13 @@ Plataforma de práctica de idiomas que permite a los usuarios reservar clases co
 #### Optimización de Procesos en VBA
 Desarrollo de soluciones personalizadas para optimizar procesos empresariales utilizando Visual Basic for Applications (VBA). Estos proyectos han resultado en mejoras significativas en la eficiencia y la productividad en diversos contextos empresariales.
 
-### 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGitHub&show_icons=true&theme=radical)
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TuUsuarioDeGitHub)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/fulldaniel20/)
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daniel94cruz@gmail.com)
 
 ---
 
