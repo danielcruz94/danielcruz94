@@ -1,15 +1,57 @@
-<h1 align="center">Hi 👋, I'm Daniel Cruz Aristizabal</h1>
-<h3 align="center">A passionate frontend developer from Medellin Colombia,Passionate software engineer with a proven track record of delivering high-quality, innovative solutions.I am a passionate software engineer with a deep interest in technology and finance. I am always eager to learn new things and push the boundaries of what is possible. I am confident that my skills and experience would be a valuable asset to any team.</h3>
+# ¡Hola! 👋 Soy Daniel 
 
-- 🔭 I’m currently working on **Thaskify**
+## 💻 Desarrollador Full Stack
 
+Con 2 años de experiencia en el desarrollo de aplicaciones web robustas y escalables.
 
+### 🛠 Tecnologías y Herramientas
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![VBA](https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
+### 🚀 Proyectos Destacados
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">daniel94cruz@gmail.com
-</p>
+#### [Thaskify](https://thaskify.com/)
+Proyecto de gestión de proyectos y equipos con énfasis en la gamificación. Esta plataforma innovadora combina la eficiencia en la gestión de tareas con elementos de juego para aumentar la productividad y el compromiso del equipo.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Tecnologías utilizadas:**
+- React.js
+- Redux
+- MongoDB
+- Node.js
+- Express
+
+#### [Torii App](https://toriiapp.netlify.app/)
+Plataforma de práctica de idiomas que permite a los usuarios reservar clases con tutores a nivel global. Torii App facilita el aprendizaje de idiomas conectando estudiantes con profesores nativos de todo el mundo.
+
+**Tecnologías utilizadas:**
+- React.js
+- JavaScript
+- Bootstrap
+- Redux
+- MongoDB
+- Node.js
+- Express
+
+#### Optimización de Procesos en VBA
+Desarrollo de soluciones personalizadas para optimizar procesos empresariales utilizando Visual Basic for Applications (VBA). Estos proyectos han resultado en mejoras significativas en la eficiencia y la productividad en diversos contextos empresariales.
+
+### 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGitHub&show_icons=true&theme=radical)
+
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TuUsuarioDeGitHub)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+
+---
+
+⭐️ From [TuUsuarioDeGitHub](https://github.com/TuUsuarioDeGitHub)
