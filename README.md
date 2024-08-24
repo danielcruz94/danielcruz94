@@ -52,4 +52,4 @@ Desarrollo de soluciones personalizadas para optimizar procesos empresariales ut
 
 ---
 
-⭐️ From [TuUsuarioDeGitHub](https://github.com/TuUsuarioDeGitHub)
+⭐️ From [TuUsuarioDeGitHub](https://github.com/danielcruz94)
