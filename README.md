@@ -2,7 +2,7 @@
 
 ## 💻 Desarrollador Full Stack
 
-Con 2 años de experiencia en el desarrollo de aplicaciones web robustas y escalables.
+Con 4 años de experiencia en el desarrollo de aplicaciones web robustas y escalables.
 
 ### 🛠 Tecnologías y Herramientas
 
